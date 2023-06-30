@@ -64,7 +64,7 @@ font-size: 62px;
 .box2{
 display:inline-block;
 text-decoration: solid;
-color:#faf7f7;
+color:#000000;
 border: 1px solid #000000;
 padding: 12px 34px;
 font-size: 30px;
@@ -170,7 +170,7 @@ h5 {
 .box3{
   display:inline-block;
   text-decoration: solid;
-  color:#ffffff;
+  color:#000000;
   border: 1px;
   padding: 12px 34px;
   font-size: 25px;
@@ -185,7 +185,7 @@ h5 {
   }
 
   
-h7{
+.h7{
   font-size: 40px;
   color: #000000;
   margin-left: 1500px;
@@ -237,7 +237,9 @@ h1 {
   flex-direction: column;
 }
 
-
+.bulletpoints {
+  margin-left: 100px
+}
 
 button {
   padding: 10px 20px;
@@ -261,7 +263,7 @@ button:hover {
 .box4 {
   display:inline-block;
   text-decoration: solid;
-  color:#f44336;
+  color:#000000;
   border: 2px;
   padding: 12px 34px;
   font-size: 60px;
