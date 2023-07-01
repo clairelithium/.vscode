@@ -203,6 +203,20 @@ h5 {
   background-color: #edede9;
 }
 
+.yup {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #edede9;
+}
+
+.ye {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 10px;
+  margin-top: 300px;
+  background-color: #edede9;
+}
+
 footer {
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   padding: 10px;
@@ -286,5 +300,6 @@ button:hover {
   }
 
   .projectpage {
-    font-size: 25px
+    font-family:'Segoe UI';
+    font-size: 20px;
   }
